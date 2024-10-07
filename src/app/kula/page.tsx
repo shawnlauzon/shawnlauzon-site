@@ -15,8 +15,8 @@ export const metadata: Metadata = {
 export default function Kula() {
   return (
     <SimpleLayout
-      title="The platform for creating supportive relationships with gift economies."
-      intro="Today, people are craving connection more than ever, while distrust is rising both on and offline. Our mission is to bring back the social club. So you know someone always has your back."
+      title="The platform for creating close relationships using gift economies."
+      intro="Today people are craving connection more than ever, while distrust is rising both on and offline. Our mission is to bring back the social club. Think of it like a potluck where rather than dishes, people bring their gifts and skills. And with a group of people who help each other, naturally trusting relationships arise. This is the vision of the Kula Collective."
     >
       <Link href="https://fractalhumandesign.com">
         <Image
