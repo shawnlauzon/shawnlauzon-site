@@ -6,7 +6,6 @@ import Link from 'next/link'
 import { Container } from '@/components/Container'
 import {
   FacebookIcon,
-  GitHubIcon,
   InstagramIcon,
   LinkedInIcon,
   XIcon,
@@ -198,13 +197,6 @@ export default function About() {
               icon={XIcon}
             >
               Follow on X
-            </SocialLink>
-            <SocialLink
-              href="https://github.com/shawnlauzon"
-              icon={GitHubIcon}
-              className="mt-4"
-            >
-              Follow on GitHub
             </SocialLink>
             <SocialLink
               href="mailto:shawn@fractalhumandesign.com"
