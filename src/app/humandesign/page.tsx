@@ -73,7 +73,7 @@ export default function About() {
         </div>
         <div className="lg:order-first lg:row-span-2">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            Human Design helped me understand and accept myself.
+            With Human Design, I was finally able to love and appreciate myself.
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
@@ -95,7 +95,7 @@ export default function About() {
               coming out.
             </p>
             <p>
-              And it was so frustrating! It did this a couple times, and rarely
+              And it was so frustrating! t did this a couple times, and rarely
               did I get anything good. And when I did, I had to do so many
               retakes because I would just have long pauses where my mind would
               go I don’t know where. So I tried something different: I did a
