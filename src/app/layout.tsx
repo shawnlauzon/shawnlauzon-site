@@ -9,10 +9,10 @@ export const metadata: Metadata = {
   title: {
     template: '%s - Shawn Lauzon',
     default:
-      'Shawn Lauzon - Software developer, Human Design Analyst, founder, and amateur DJ',
+      'Shawn Lauzon - Human Design, Authentic Relating, founder, and amateur DJ',
   },
   description:
-    'I’m Shawn, a software developer and entrepreneur based in Austin, TX.',
+    'I’m Shawn, a Human Design analyst and entrepreneur based in Austin, TX.',
   alternates: {
     types: {
       'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,

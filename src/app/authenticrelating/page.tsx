@@ -48,9 +48,9 @@ function MailIcon(props: React.ComponentPropsWithoutRef<'svg'>) {
 }
 
 export const metadata: Metadata = {
-  title: 'Human Design',
+  title: 'Authentic Relating',
   description:
-    'I’m Shawn Lauzon. I live in Austin, TX, where I do all sorts of things to help people live a life in flow and connect with like-valued people.',
+    'Authentic Relating teaches how to move from small talk to big connection.',
 }
 
 export default function AuthenticRelating() {

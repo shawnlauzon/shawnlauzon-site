@@ -102,9 +102,8 @@ function MailIcon(props: React.ComponentPropsWithoutRef<'svg'>) {
 }
 
 export const metadata: Metadata = {
-  title: 'Human Design',
-  description:
-    'I’m Shawn Lauzon. I live in Austin, TX, where I do all sorts of things to help people live a life in flow and connect with like-valued people.',
+  title: 'Software Development',
+  description: 'Expert full-stack and mobile app developer.',
 }
 
 interface Role {
