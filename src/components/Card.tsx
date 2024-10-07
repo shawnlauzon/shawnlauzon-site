@@ -1,5 +1,5 @@
-import Link from 'next/link'
 import clsx from 'clsx'
+import Link from 'next/link'
 
 function ChevronRightIcon(props: React.ComponentPropsWithoutRef<'svg'>) {
   return (
@@ -72,6 +72,14 @@ Card.Description = function CardDescription({
 }) {
   return (
     <p className="relative z-10 mt-2 text-sm text-zinc-600 dark:text-zinc-400">
+      {children}
+    </p>
+  )
+}
+
+Card.Status = function CardStatus({ children }: { children: React.ReactNode }) {
+  return (
+    <p className="relative z-10 mt-1 text-sm italic text-slate-500 dark:text-slate-400">
       {children}
     </p>
   )

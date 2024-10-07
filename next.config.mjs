@@ -10,6 +10,16 @@ const nextConfig = {
       '/articles/*': ['./src/app/articles/**/*.mdx'],
     },
   },
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'fractalhumandesign.com',
+        port: '',
+        pathname: '/**',
+      },
+    ],
+  },
 }
 
 const withMDX = nextMDX({

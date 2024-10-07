@@ -1,5 +1,5 @@
 {
-  "name": "tailwindui-template",
+  "name": "shawnlauzon-site",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -34,10 +34,11 @@
     "typescript": "^5.3.3"
   },
   "devDependencies": {
-    "eslint": "^8.56.0",
+    "eslint": "^8.57.1",
     "eslint-config-next": "^14.0.4",
     "prettier": "^3.3.2",
     "prettier-plugin-tailwindcss": "^0.6.5",
     "sharp": "0.33.1"
-  }
+  },
+  "packageManager": "pnpm@9.11.0+sha512.0a203ffaed5a3f63242cd064c8fb5892366c103e328079318f78062f24ea8c9d50bc6a47aa3567cabefd824d170e78fa2745ed1f16b132e16436146b7688f19b"
 }
