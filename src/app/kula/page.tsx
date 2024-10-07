@@ -9,13 +9,13 @@ import kulaLogoBgLight from '@/images/logos/kula-collective-bg-light.svg'
 export const metadata: Metadata = {
   title: 'Kula',
   description:
-    'The Kula Collective is a platform for creating and nurturing supportive relationships. Coming soon.',
+    'Kula will be the platform for creating supportive relationships with gift economies',
 }
 
 export default function Kula() {
   return (
     <SimpleLayout
-      title="A platform for creating and nurturing supportive relationships"
+      title="The platform for creating supportive relationships with gift economies."
       intro="Today, people are craving connection more than ever, while distrust is rising both on and offline. Our mission is to bring back the social club. So you know someone always has your back."
     >
       <Link href="https://fractalhumandesign.com">

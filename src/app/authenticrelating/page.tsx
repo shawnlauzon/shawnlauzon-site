@@ -50,7 +50,7 @@ function MailIcon(props: React.ComponentPropsWithoutRef<'svg'>) {
 export const metadata: Metadata = {
   title: 'Authentic Relating',
   description:
-    'Authentic Relating teaches how to move from small talk to big connection.',
+    'Authentic Relating taught me to move from small talk to big connection.',
 }
 
 export default function AuthenticRelating() {
@@ -69,7 +69,7 @@ export default function AuthenticRelating() {
         </div>
         <div className="lg:order-first lg:row-span-2">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            Authentic Relating teaches how to move from{' '}
+            Authentic Relating taught me to move from{' '}
             <span className="italic">small talk</span> to{' '}
             <span className="italic">big connection</span>.
           </h1>
